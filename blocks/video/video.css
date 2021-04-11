@@ -1,0 +1,10 @@
+@import url(../section-title/section-title.css);
+@import url(../section-subtitle/section-subtitle.css);
+@import url(__iframes/video__iframes.css);
+@import url(__iframe/video__iframe.css);
+
+.video {
+  position: relative;
+  top: 60px;
+  margin-top: 40px;
+}

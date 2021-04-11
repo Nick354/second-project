@@ -1,0 +1,10 @@
+@import url(../section-title/section-title.css);
+@import url(../section-subtitle/section-subtitle.css);
+@import url(../cards/cards.css);
+@import url(../cards/__item/_nth-child/cards__item_nth-child.css);
+
+.techniques {
+  margin-bottom: 100px;
+  min-width: 80%;
+  margin: 0 auto;
+}
