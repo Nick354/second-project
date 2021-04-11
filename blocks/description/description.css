@@ -1,6 +1,3 @@
-@import url(../two-colums/two-colums.css);
-@import url(../two-colums/__span-accent/two-colums__span-accent.css);
-@import url(../two-colums/__paragraph/_last-child/two-colums__paragraph_last-child.css);
 .description {
   margin-bottom: 100px;
 }
