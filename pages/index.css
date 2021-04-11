@@ -36,6 +36,7 @@
 @import url(../blocks/header/__main-illustration/header__main-illustration.css);
 @import url(../blocks/rotation/rotation.css);
 @import url(../blocks/logo/_place/logo_place_header.css);
+@import url(../blocks/logo/_place/logo_place_footer.css);
 @import url(../blocks/section-title/_theme/section-title_theme_dark.css);
 @import url(../blocks/section-subtitle/_theme/section-subtitle_theme_dark.css);
 @import url(../blocks/table/table.css);
@@ -62,7 +63,7 @@
 @import url(../blocks/video/__iframes/video__iframes.css);
 @import url(../blocks/video/__iframe/video__iframe.css);
 @import url(../blocks/footer/__colums/footer__colums.css);
-@import url(../blocks/footer/_content/footer__column_content_copyright.css);
+@import url(../blocks/footer/__column/_content/footer__column_content_copyright.css);
 @import url(../blocks/footer/__author/footer__author.css);
 @import url(../blocks/footer/__column-links/footer__column-links.css);
 @import url(../blocks/footer/__column-link/footer__column-link.css);
