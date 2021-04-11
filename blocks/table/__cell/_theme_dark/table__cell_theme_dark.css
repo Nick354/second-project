@@ -1,7 +1,4 @@
 .table__cell_theme_dark {
-  position: relative;
-  display: flex;
-  align-self: flex-start;
   width: 200px;
   color: white;
   margin-right: 0;
